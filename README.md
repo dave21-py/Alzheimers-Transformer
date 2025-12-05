@@ -92,5 +92,5 @@ Install requirements
 pip install torch torchvision pandas numpy matplotlib opencv-python
 
 Run the notebook
-jupyter notebook Alzheimers_Hybrid_Model.ipynb
+jupyter notebook alzhiemer's_deeplearning_pipeline.ipynb
 ```
