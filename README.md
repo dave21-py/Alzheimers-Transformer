@@ -11,12 +11,11 @@ Unlike standard CNNs, this model combines the feature extraction power of **Mobi
 
 #### Results!
 
-![FGSM Result](1.png)
-
-![FGSM Result](2.png)
-
-
-![FGSM Result](3.png)
+<p align="center">
+  <img src="1.png" width="30%" />
+  <img src="2.png" width="30%" />
+  <img src="3.png" width="30%" />
+</p>
 
 
 ![FGSM Result](brain.png)
