@@ -11,15 +11,12 @@ Unlike standard CNNs, this model combines the feature extraction power of **Mobi
 
 #### Results!
 
-![FGSM Result](panda_noise_fgsm.png)
-*(Note: Left is Original, Middle is Noise, Right is Adversarial Example)*
+![FGSM Result](1.png)
 
-![FGSM Result](panda_noise_fgsm.png)
-*(Note: Left is Original, Middle is Noise, Right is Adversarial Example)*
+![FGSM Result](2.png)
 
 
-![FGSM Result](panda_noise_fgsm.png)
-*(Note: Left is Original, Middle is Noise, Right is Adversarial Example)*
+![FGSM Result](3.png)
 
 
 ![FGSM Result](brain.png)
