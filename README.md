@@ -9,6 +9,23 @@ Unlike standard CNNs, this model combines the feature extraction power of **Mobi
 
 **The goal:** To create a clinically accurate (>99%), lightweight, and interpretable tool for early dementia triage.
 
+#### Results!
+
+![FGSM Result](panda_noise_fgsm.png)
+*(Note: Left is Original, Middle is Noise, Right is Adversarial Example)*
+
+![FGSM Result](panda_noise_fgsm.png)
+*(Note: Left is Original, Middle is Noise, Right is Adversarial Example)*
+
+
+![FGSM Result](panda_noise_fgsm.png)
+*(Note: Left is Original, Middle is Noise, Right is Adversarial Example)*
+
+
+![FGSM Result](brain.png)
+*(Note: This result was generated after i have implemented the grad-cam algorithm)*
+
+
 #### Architecture
 The model (`HybridModel`) processes data in three distinct stages:
 
